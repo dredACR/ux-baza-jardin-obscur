@@ -1,0 +1,1468 @@
+{
+  "date": "2026-11-15",
+  "site": "https://om2r9.weblium.site/",
+  "tests": {
+    "navigation": [
+      {
+        "name": "O nas",
+        "height": 1138.800048828125,
+        "id": "about-us",
+        "scrollY": 1535.199951171875,
+        "text": "- HISTORIA MARKI -\n\nLata rzemiosła, tysiące różnych historii\n\nOd subtelnych nut na dzień — znajdź za",
+        "top": 0.17499999701976776
+      },
+      {
+        "name": "Nasza filozofia",
+        "height": 857.7000122070312,
+        "id": "our-philosophy",
+        "scrollY": 3371.199951171875,
+        "text": "\n\n\n\n\n\n\n\n\n\n\n\n- NASZA FILOZOFIA -\n\nZapach z przesłaniem – rozpocznij swoją historię\n\nStworzone z dbało",
+        "top": 0.17499999701976776
+      },
+      {
+        "name": "Bestsellery",
+        "height": 812,
+        "id": "best-sellers",
+        "scrollY": 4228.7998046875,
+        "text": "- BESTSELLERY -\n\nNasze najbardziej lubiane zapachy\n\nKliknij obrazek, aby zobaczyć szczegóły produktu",
+        "top": 0.2750000059604645
+      },
+      {
+        "name": "Nowy zapach",
+        "height": 862.4125366210938,
+        "id": "new-scent",
+        "scrollY": 5040.7998046875,
+        "text": "- NOWY ZAPACH -\n\nWarstwy zapachu „rozwijające się niczym opowieść”\n\nKażdy zapach zaczyna się od iskr",
+        "top": 0.2750000059604645
+      },
+      {
+        "name": "Katalog",
+        "height": 1263.375,
+        "id": "catalog",
+        "scrollY": 5903.2001953125,
+        "text": "- NASZE PRODUKTY -\n\nNasz katalog zapachów\n\nProdukujemy wszelkiego rodzaju produkty wspierające małe ",
+        "top": 0.2874999940395355
+      },
+      {
+        "name": "Opinie",
+        "height": 281.3999938964844,
+        "id": "testimonials-heading",
+        "scrollY": 8232,
+        "text": "- KLIENCI O NAS -\n\nDlaczego zakochali się od pierwszego wejrzenia\n\nJesteśmy firmą zorientowaną na kl",
+        "top": -0.4375
+      }
+    ],
+    "returnContext": {
+      "productVisible": [
+        {
+          "bottom": -1616.6250476837158,
+          "top": -1643.925048828125
+        },
+        {
+          "bottom": -1616.6250476837158,
+          "top": -1643.925048828125
+        },
+        {
+          "bottom": -1616.6250476837158,
+          "top": -1643.925048828125
+        },
+        {
+          "bottom": 433.16251945495605,
+          "top": 405.8625183105469
+        }
+      ],
+      "scrollY": 6418.39990234375,
+      "url": "https://om2r9.weblium.site/#catalog"
+    },
+    "cart": {
+      "increase": {
+        "quantity": 2,
+        "total": "79,98 PLN"
+      },
+      "promo": [
+        {
+          "live": "polite",
+          "role": "status",
+          "text": "In stock",
+          "visible": true
+        },
+        {
+          "live": null,
+          "role": "alert",
+          "text": "This field is required.",
+          "visible": true
+        },
+        {
+          "live": null,
+          "role": "alert",
+          "text": "Please enter a valid email address.",
+          "visible": true
+        },
+        {
+          "live": null,
+          "role": "alert",
+          "text": "Please enter a valid phone number.",
+          "visible": true
+        },
+        {
+          "live": null,
+          "role": "alert",
+          "text": "This field is required.",
+          "visible": false
+        }
+      ],
+      "remove": {
+        "empty": true,
+        "text": "Shopping cart is empty"
+      }
+    },
+    "forms": [
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": "Product quantity",
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "",
+        "parent": "<div class=\"quantity_yLc quantity-wrapper_1d1 js-product-specs-quantity\"><input type=\"text\" aria-label=\"Product quantity\" data-test=\"quantity-input\" value=\"1\" class=\"quantity-input_1N1\" min=\"1\" max=\"9999\"><div class=\"quantity-arrows_2rp\"><svg aria-label=\"Increase quantity\" role=\"button\" tabindex=\"0\" class=\"product__input-quantity-arrow quantity-arrow_1Js js-product-specs-quantity-up\" width=\"10\" height=\"6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5.35.156a.474.474 0 00-.701 0L.111 5.264a.437.437 0 00-.111.29C0 5.8.207 6 .462 6h9.076c.11 0 .217-.038.3-.107a.435.435 0 00.05-.629L5.352.156z\" fill=\"#9199AB\"></path></svg><svg aria-label=\"Decrease quantity\" role=\"button\" tabindex=\"0\" class=\"product__input-quantity-arrow quantity-arrow_1Js quantity-arrow-down_1nO js-product-specs-quantity-down\" width=\"10\" height=\"6\" fill=\"none\" xm",
+        "placeholder": "",
+        "required": false,
+        "tag": "INPUT",
+        "type": "text",
+        "value": "1"
+      },
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": "Quantity of product",
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "",
+        "parent": "<div class=\"input-quantity_1ip\"><input type=\"number\" class=\"input_wZk\" value=\"1\" aria-label=\"Quantity of product\"><div class=\"input-quantity__arrows_1T9\"><div class=\"arrow_2Hl\" data-sub-item=\"quantity-up\" aria-label=\"Increase quantity of product\" role=\"button\" tabindex=\"0\"><svg width=\"10\" height=\"6\" viewBox=\"0 0 10 6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5.35067 0.155633C5.33527 0.138307 5.31853 0.122147 5.30057 0.107295C5.1069 -0.0528817 4.81533 -0.0312402 4.64933 0.155633L0.111189 5.26432C0.0394387 5.34509 -4.76276e-07 5.44797 -4.85577e-07 5.55435C-5.07094e-07 5.80047 0.206781 6 0.461859 6L9.53813 6C9.64838 6 9.755 5.96194 9.83871 5.89271C10.0324 5.73253 10.0548 5.4512 9.8888 5.26432L5.35067 0.155633Z\" fill=\"#9199AB\"></path></svg><span class=\"sr-only\">Increase quantity of product</span></div><div class=\"arrow--down_1",
+        "placeholder": "",
+        "required": false,
+        "tag": "INPUT",
+        "type": "number",
+        "value": "1"
+      },
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "f44ded8c-09c1-4215-b938-4acc51c6dba6",
+        "parent": "<div class=\"w-form__field field_1VW\" data-text-classname=\"textarea-field_3EF\" data-item=\"product-cart-field\" data-role=\"template\" data-element=\"input\" data-item-id=\"f44ded8c-09c1-4215-b938-4acc51c6dba6\"><div class=\"w-form__label form__title_Im5 ui-text\"><span data-sub-item=\"name\">Name</span><span data-sub-item=\"required\" style=\"opacity: 1;\" class=\"required-star_2cV\"> *</span></div><input type=\"name\" data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"form__input_1rg ui-input ui-input--size-md w-form__input\" style=\"border-color:#333333;background-color:rgba(15, 17, 8, 0.12);--w-get-input-background-color:rgba(15, 17, 8, 0.12);--w-get-input-border-radius:var(--ui-btn-md-border-radius)\" placeholder=\"Your name\" name=\"f44ded8c-09c1-4215-b938-4acc51c6dba6\" required=\"\" aria-required=\"true\"><div data-sub-item=\"validation",
+        "placeholder": "Your name",
+        "required": true,
+        "tag": "INPUT",
+        "type": "text",
+        "value": ""
+      },
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "1b0ef10f-f5a6-453b-8e15-ff44be3d1d9c",
+        "parent": "<div class=\"w-form__field field_1VW\" data-text-classname=\"textarea-field_3EF\" data-item=\"product-cart-field\" data-role=\"template\" data-element=\"input\" data-item-id=\"1b0ef10f-f5a6-453b-8e15-ff44be3d1d9c\"><div class=\"w-form__label form__title_Im5 ui-text\"><span data-sub-item=\"name\">Email</span><span data-sub-item=\"required\" style=\"opacity: 1;\" class=\"required-star_2cV\"> *</span></div><input type=\"email\" data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"form__input_1rg ui-input ui-input--size-md w-form__input\" style=\"border-color:#333333;background-color:rgba(15, 17, 8, 0.12);--w-get-input-background-color:rgba(15, 17, 8, 0.12);--w-get-input-border-radius:var(--ui-btn-md-border-radius)\" placeholder=\"Your email address\" name=\"1b0ef10f-f5a6-453b-8e15-ff44be3d1d9c\" required=\"\" aria-required=\"true\"><div data-sub-item=",
+        "placeholder": "Your email address",
+        "required": true,
+        "tag": "INPUT",
+        "type": "email",
+        "value": ""
+      },
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "139603cf-08f4-4de7-83ec-81667dd74bc1",
+        "parent": "<div data-sub-item=\"input-field-wrapper\" class=\"input-mask-wrapper_25q\" style=\"--w-get-input-border-radius: var(--ui-btn-md-border-radius); --w-get-input-color: inherit; --w-get-input-background-color: transparent; background: rgba(15, 17, 8, 0.12);\"><div data-sub-item=\"input-field-transparent-wrapper\" class=\"input-mask-transparent-wrapper_2dE\" style=\"border: 0px rgb(51, 51, 51);\"><div data-sub-item=\"input-field-transparent-wrapper__value\" class=\"input-mask-transparent__value_1Ob\"></div><div data-sub-item=\"input-field-transparent-wrapper__suffix\" class=\"input-mask-transparent__suffix_-Ii\"></div></div><input type=\"tel\" data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"form__input_1rg ui-input ui-input--size-md w-form__input\" style=\"border-color:#333333;background-color:rgba(15, 17, 8, 0.12);--w-get-input-backgro",
+        "placeholder": "Your phone",
+        "required": true,
+        "tag": "INPUT",
+        "type": "tel",
+        "value": ""
+      },
+      {
+        "ariaDescribedby": null,
+        "ariaInvalid": null,
+        "ariaLabel": null,
+        "ariaLabelledby": null,
+        "id": "",
+        "labels": [],
+        "name": "56b196df-996b-49a5-bea3-87021e7d5527",
+        "parent": "<div class=\"w-form__field field_1VW\" data-text-classname=\"textarea-field_3EF\" data-item=\"product-cart-field\" data-role=\"template\" data-element=\"textarea\" data-item-id=\"56b196df-996b-49a5-bea3-87021e7d5527\"><div class=\"w-form__label form__title_Im5 ui-text\"><span data-sub-item=\"name\">Comment</span><span data-sub-item=\"required\" style=\"opacity:0\" class=\"required-star_2cV\"> *</span></div><textarea data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"form__input_1rg ui-input ui-input--size-md w-form__input textarea-field_3EF\" type=\"textarea\" style=\"border-color:#333333;background-color:rgba(15, 17, 8, 0.12);--w-get-input-background-color:rgba(15, 17, 8, 0.12);--w-get-input-border-radius:var(--ui-btn-md-border-radius)\" placeholder=\"Your comment\" name=\"56b196df-996b-49a5-bea3-87021e7d5527\"></textarea><div data-sub-item=",
+        "placeholder": "Your comment",
+        "required": false,
+        "tag": "TEXTAREA",
+        "type": "textarea",
+        "value": ""
+      }
+    ],
+    "live": [
+      {
+        "html": "<div class=\"ui-text status_AT4 \n      status-in-stock_11A\n  \" role=\"status\" aria-live=\"polite\">In stock</div>",
+        "live": "polite",
+        "role": "status",
+        "text": "In stock"
+      },
+      {
+        "html": "<div data-sub-item=\"validation-text\" class=\"validation-text_3Or\" role=\"alert\">This field is required.</div>",
+        "live": null,
+        "role": "alert",
+        "text": "This field is required."
+      },
+      {
+        "html": "<div data-sub-item=\"validation-text\" class=\"validation-text_3Or\" role=\"alert\">Please enter a valid email address.</div>",
+        "live": null,
+        "role": "alert",
+        "text": "Please enter a valid email address."
+      },
+      {
+        "html": "<div data-sub-item=\"validation-text\" class=\"validation-text_3Or\" role=\"alert\">Please enter a valid phone number.</div>",
+        "live": null,
+        "role": "alert",
+        "text": "Please enter a valid phone number."
+      },
+      {
+        "html": "<div data-sub-item=\"validation-text\" class=\"validation-text_3Or\" role=\"alert\">This field is required.</div>",
+        "live": null,
+        "role": "alert",
+        "text": "This field is required."
+      }
+    ],
+    "formsAfterValidation": [
+      {
+        "ariaInvalid": "true",
+        "errorRole": "alert",
+        "errorText": "This field is required.",
+        "errorVisible": 16,
+        "required": true,
+        "text": "Name *\nThis field is required."
+      },
+      {
+        "ariaInvalid": "true",
+        "errorRole": "alert",
+        "errorText": "Please enter a valid email address.",
+        "errorVisible": 16,
+        "required": true,
+        "text": "Email *\nPlease enter a valid email address."
+      },
+      {
+        "ariaInvalid": "true",
+        "errorRole": "alert",
+        "errorText": "Please enter a valid phone number.",
+        "errorVisible": 16,
+        "required": true,
+        "text": "Phone *\nPlease enter a valid phone number."
+      },
+      {
+        "ariaInvalid": "false",
+        "errorRole": "alert",
+        "errorText": "This field is required.",
+        "errorVisible": 0,
+        "required": false,
+        "text": "Comment *"
+      }
+    ],
+    "pagespeed": {
+      "url": "https://pagespeed.web.dev/analysis/https-om2r9-weblium-site/fxgh9wyj4r?form_factor=mobile",
+      "mobile": "PageSpeed Insights\nКопіювати посилання\nДокументи\nЦей сайт використовує файли cookie від Google, щоб надавати послуги й аналізувати трафік.\nДокладніше.\nOK.\nЗвіт від 15 лист. 2026 р., 12:01:15\n\nВведіть дійсну URL-адресу\n\nАналізувати\nsmartphone\nМобільний\ncomputer\nКомп’ютер\nДізнайтеся, як відбувається взаємодія в реальних користувачів\nНемає даних\nВиявляйте проблеми з продуктивністю\nЕфективність\n88\nДоступність\n100\nОптимальні методи\n69\nОптим. пошук. систем\n1/2\nАгентний вебперегляд\nЕфективність\nЗначення приблизні й можуть відрізнятися. Значення ефективності визначено на основі цих показників.Показати калькулятор.\n0–49\n50–89\n90–100\nПОКАЗНИКИ\nЗгорнути\nFirst Contentful Paint\nError!\nЦя сторінка не відобразила контент. Переконайтеся, що вікно веб-переглядача перебуває в активному режимі під час завантаження, і повторіть спробу. (NO_FCP)\nLargest Contentful Paint\nError!\nЦя сторінка не відобразила контент. Переконайтеся, що вікно веб-переглядача перебуває в активному режимі під час завантаження, і повторіть спробу. (NO_FCP)\nTotal Blocking Time\nError!\nЦя сторінка не відобразила контент. Переконайтеся, що вікно веб-переглядача перебуває в активному режимі під час завантаження, і повторіть спробу. (NO_FCP)\nCumulative Layout Shift\n0\nСукупне зміщення макета вимірює рух видимих елементів у межах області перегляду. Докладніше про показник \"Сукупне зміщення макета\".\nSpeed Index\nError!\nЦя сторінка не відобразила контент. Переконайтеся, що вікно веб-переглядача перебуває в активному режимі під час завантаження, і повторіть спробу. (NO_FCP)\nCaptured at 15 лист. 2026 р., 12:01 GMT+2\nЕмульований пристрій Moto G Power with Lighthouse 13.6.0\nСеанс із переглядом однієї сторінки\nПерше завантаження сторінки\nОбмеження пропускної спроможності для мережі 4G з низькою швидкістю\nUsing HeadlessChromium 157.0.8103.38 with lr\nПереглянути веб-додаток Treemap\nПоказано аудити, релевантні для:\nAll\nLCP\nTBT\nCLS\nСТАТИСТИКА\nВикористовуйте ефективні значення TTL кешу Очікуване заощадження: 1 056 КіБ\nПримусове перекомпонування\nРозподіл LCP\nВиявлення запитів LCP\nОптимізуйте розмір DOM\nСторонній код\nЦя статистика також доступна на панелі \"Продуктивність\" в Інструментах розробника Chrome. Щоб переглянути докладнішу інформацію, запишіть трасування.\nДІАГНОСТИКА\nЗменште СSS Помилка.\nЗменште файл JavaScript Помилка.\nЗменште код CSS, який не використовуєте Помилка.\nЗменште код JavaScript, який не використовуєте Помилка.\nУникайте тривалих завдань у головному потоці Помилка.\nДля зображень не задано явним чином атрибути width та height\nУникайте великих обсягів даних у мережі Загальний розмір – 41 421 КіБ\nЗменште час виконання JavaScript 3,7 с\nМінімізуйте роботу основного потоку 4,5 с\nДокладніше про ефективність додатка. Ці числа не впливають безпосередньо на значення ефективності.\nВИКОНАНІ ПЕРЕВІРКИ (12)\nПоказати\n88\nДоступність\nЦі перевірки визначають можливості для покращення доступності веб-додатка. Функція автоматичного визначення може виявляти лише певні проблеми й не гарантує доступність вашого веб-додатка, тому радимо також проводити перевірки вручну.\nНАЗВИ ТА МІТКИ\nКнопки не мають доступних для зчитування назв\nПосилання не мають назв, які можна розпізнати\nЦі рекомендації допоможуть удосконалити семантику елементів керування в додатку. Це може покращити взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nКОНТРАСТ\nМіж кольорами фону та переднього плану недостатній коефіцієнт контрастності.\nЦі рекомендації допоможуть покращити читабельність вмісту.\nПРАКТИЧНІ ПОРАДИ\nУсі елементи <heading> містять контент.\nЦі елементи надають поширені практичні поради щодо спеціальних можливостей.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (10)\nПоказати\nЦі елементи опрацьовують області, які не може охопити автоматизований інструмент перевірки. Докладніше читайте в нашому посібнику з перевірки доступності.\nВИКОНАНІ ПЕРЕВІРКИ (24)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (35)\nПоказати\n100\nОптимальні методи\nДОВІРА Й БЕЗПЕКА\nПереконайтеся, що CSP допомагає проти атак XSS\nВикористовуйте надійні правила HSTS\nЗабезпечте належне відокремлення джерел за допомогою правила COOP\nЗменште ризик міжсайтного скриптингу (XSS) на основі DOM за допомогою Trusted Types\nСУМІСНІСТЬ ВЕБ-ПЕРЕГЛЯДАЧА\nФункції Baseline\nЗАГАЛЬНІ\nВиявлені бібліотеки JavaScript\nВеликий власний файл JavaScript не містить карт джерела\nВИКОНАНІ ПЕРЕВІРКИ (12)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (2)\nПоказати\n69\nОптим. пошук. систем\nЦі перевірки допоможуть подбати про те, щоб ваша сторінка відповідала основним рекомендаціям щодо пошукової оптимізації. Є чимало інших факторів, які не враховує Lighthouse і які можуть вплинути на рейтинг сторінки в результатах пошуку (наприклад, продуктивність відповідно до Основних веб-показників). Докладніше про основи Google Пошуку.\nСКАНУВАННЯ Й ІНДЕКСУВАННЯ\nСторінку не можна індексувати\nЩоб ваш вміст з’являвся в результатах пошуку, веб-сканерам потрібно надати доступ до додатка.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (1)\nПоказати\nЩоб отримати додаткові практичні поради щодо оптимізації пошукових систем, скористайтеся додатковими засобами перевірки на своєму сайті.\nВИКОНАНІ ПЕРЕВІРКИ (9)\nПоказати\n1/2\nАгентний вебперегляд\nЦі перевірки забезпечують високу якість вебсайтів і їх доступність для агентів на основі ШІ, а також підтверджують правильність інтеграції WebMCP. Ця категорія ще на стадії розробки, тому може змінюватися.\nДОСТУПНІСТЬ АГЕНТА\nДерево доступності має неправильну структуру\nЦі перевірки допоможуть покращити доступність вебсайту для агентів на основі ШІ.\nВИКОНАНІ ПЕРЕВІРКИ (1)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (5)\nПоказати\nБільше про PageSpeed Insights\nЩо нового\nДокументація\nДокладніше про ефективність веб-сайту\nПоставте запитання на Stack Overflow\nСписок розсилки\nПов’язаний контент\nОновлення\nОснови веб-дизайну\nПриклади використання\nПодкасти\nЗв’язок\nТвіттер\nYouTube\nChrome\nFirebase\nУсі продукти\nУмови та Політика конфіденційності\nЩоб дізнатися більше, перегляньте правила користування сайтом Google Developers.",
+      "desktop": "PageSpeed Insights\nКопіювати посилання\nДокументи\nЦей сайт використовує файли cookie від Google, щоб надавати послуги й аналізувати трафік.\nДокладніше.\nOK.\nЗвіт від 15 лист. 2026 р., 12:01:15\n\nВведіть дійсну URL-адресу\n\nАналізувати\nsmartphone\nМобільний\ncomputer\nКомп’ютер\nДізнайтеся, як відбувається взаємодія в реальних користувачів\nНемає даних\nВиявляйте проблеми з продуктивністю\n74\nЕфективність\n80\nДоступність\n100\nОптимальні методи\n69\nОптим. пошук. систем\n1/2\nАгентний вебперегляд\n74\nFCP\n+10\nLCP\n+11\nTBT\n+20\nCLS\n+25\nSI\n+8\nЕфективність\nЗначення приблизні й можуть відрізнятися. Значення ефективності визначено на основі цих показників.Показати калькулятор.\n0–49\n50–89\n90–100\nПОКАЗНИКИ\nРозгорнути\nFirst Contentful Paint\n0,3 с\nLargest Contentful Paint\n2,7 с\nTotal Blocking Time\n260 мс\nCumulative Layout Shift\n0.025\nSpeed Index\n1,6 с\nCaptured at 15 лист. 2026 р., 12:01 GMT+2\nЕмульований комп'ютер with Lighthouse 13.6.0\nСеанс із переглядом однієї сторінки\nПерше завантаження сторінки\nСпеціальне обмеження пропускної спроможності\nUsing HeadlessChromium 157.0.8103.38 with lr\nПереглянути веб-додаток Treemap\nПоказано аудити, релевантні для:\nAll\nFCP\nLCP\nTBT\nCLS\nСТАТИСТИКА\nВикористовуйте ефективні значення TTL кешу Очікуване заощадження: 1 056 КіБ\nЗапити, які блокують відображення Очікуване заощадження: 1 270 мс\nРозподіл LCP\nВиявлення запитів LCP\nДерево залежностей мережі\nПокращте показ зображень Очікуване заощадження: 442 КіБ\nПричини зміщення макета\nСторонній код\nЦя статистика також доступна на панелі \"Продуктивність\" в Інструментах розробника Chrome. Щоб переглянути докладнішу інформацію, запишіть трасування.\nДІАГНОСТИКА\nЗменште код CSS, який не використовуєте Очікуване заощадження: 1 335 КіБ\nЗменште код JavaScript, який не використовуєте Очікуване заощадження: 174 КіБ\nДля зображень не задано явним чином атрибути width та height\nУникайте великих обсягів даних у мережі Загальний розмір – 5 531 КіБ\nУникайте тривалих завдань у головному потоці Знайдено 2 тривалі завдання\nУникайте анімацій без композитингу Знайдено 3 анімовані елементи\nДокладніше про ефективність додатка. Ці числа не впливають безпосередньо на значення ефективності.\nВИКОНАНІ ПЕРЕВІРКИ (13)\nПоказати\n80\nДоступність\nЦі перевірки визначають можливості для покращення доступності веб-додатка. Функція автоматичного визначення може виявляти лише певні проблеми й не гарантує доступність вашого веб-додатка, тому радимо також проводити перевірки вручну.\nНАЗВИ ТА МІТКИ\nКнопки не мають доступних для зчитування назв\nЕлементи форми не мають пов’язаних міток\nПосилання не мають назв, які можна розпізнати\nЦі рекомендації допоможуть удосконалити семантику елементів керування в додатку. Це може покращити взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nARIA\nПоля введення ARIA не мають доступних для зчитування назв\nЦі рекомендації допоможуть покращити використання ролей ARIA у вашому додатку, що може позитивно вплинути на взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nКОНТРАСТ\nМіж кольорами фону та переднього плану недостатній коефіцієнт контрастності.\nЦі рекомендації допоможуть покращити читабельність вмісту.\nПРАКТИЧНІ ПОРАДИ\nДокумент не містить основного орієнтира.\nУсі елементи <heading> містять контент.\nЦі елементи надають поширені практичні поради щодо спеціальних можливостей.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (10)\nПоказати\nЦі елементи опрацьовують області, які не може охопити автоматизований інструмент перевірки. Докладніше читайте в нашому посібнику з перевірки доступності.\nВИКОНАНІ ПЕРЕВІРКИ (23)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (33)\nПоказати\n100\nОптимальні методи\nДОВІРА Й БЕЗПЕКА\nПереконайтеся, що CSP допомагає проти атак XSS\nВикористовуйте надійні правила HSTS\nЗабезпечте належне відокремлення джерел за допомогою правила COOP\nЗменште ризик міжсайтного скриптингу (XSS) на основі DOM за допомогою Trusted Types\nСУМІСНІСТЬ ВЕБ-ПЕРЕГЛЯДАЧА\nФункції Baseline\nЗАГАЛЬНІ\nВиявлені бібліотеки JavaScript\nВеликий власний файл JavaScript не містить карт джерела\nВИКОНАНІ ПЕРЕВІРКИ (12)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (2)\nПоказати\n69\nОптим. пошук. систем\nЦі перевірки допоможуть подбати про те, щоб ваша сторінка відповідала основним рекомендаціям щодо пошукової оптимізації. Є чимало інших факторів, які не враховує Lighthouse і які можуть вплинути на рейтинг сторінки в результатах пошуку (наприклад, продуктивність відповідно до Основних веб-показників). Докладніше про основи Google Пошуку.\nСКАНУВАННЯ Й ІНДЕКСУВАННЯ\nСторінку не можна індексувати\nЩоб ваш вміст з’являвся в результатах пошуку, веб-сканерам потрібно надати доступ до додатка.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (1)\nПоказати\nЩоб отримати додаткові практичні поради щодо оптимізації пошукових систем, скористайтеся додатковими засобами перевірки на своєму сайті.\nВИКОНАНІ ПЕРЕВІРКИ (9)\nПоказати\n1/2\nАгентний вебперегляд\nЦі перевірки забезпечують високу якість вебсайтів і їх доступність для агентів на основі ШІ, а також підтверджують правильність інтеграції WebMCP. Ця категорія ще на стадії розробки, тому може змінюватися.\nДОСТУПНІСТЬ АГЕНТА\nДерево доступності має неправильну структуру\nЦі перевірки допоможуть покращити доступність вебсайту для агентів на основі ШІ.\nВИКОНАНІ ПЕРЕВІРКИ (1)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (5)\nПоказати\nБільше про PageSpeed Insights\nЩо нового\nДокументація\nДокладніше про ефективність веб-сайту\nПоставте запитання на Stack Overflow\nСписок розсилки\nПов’язаний контент\nОновлення\nОснови веб-дизайну\nПриклади використання\nПодкасти\nЗв’язок\nТвіттер\nYouTube\nChrome\nFirebase\nУсі продукти\nУмови та Політика конфіденційності\nЩоб дізнатися більше, перегляньте правила користування сайтом Google Developers.",
+      "desktopUrl": "https://pagespeed.web.dev/analysis/https-om2r9-weblium-site/fxgh9wyj4r?form_factor=desktop",
+      "contrast": "PageSpeed Insights\nКопіювати посилання\nДокументи\nЗвіт від 15 лист. 2026 р., 12:01:15\n\nВведіть дійсну URL-адресу\n\nАналізувати\nsmartphone\nМобільний\ncomputer\nКомп’ютер\nДізнайтеся, як відбувається взаємодія в реальних користувачів\nНемає даних\nВиявляйте проблеми з продуктивністю\n74\nЕфективність\n80\nДоступність\n100\nОптимальні методи\n69\nОптим. пошук. систем\n1/2\nАгентний вебперегляд\n74\nFCP\n+10\nLCP\n+11\nTBT\n+20\nCLS\n+25\nSI\n+8\nЕфективність\nЗначення приблизні й можуть відрізнятися. Значення ефективності визначено на основі цих показників.Показати калькулятор.\n0–49\n50–89\n90–100\nПОКАЗНИКИ\nРозгорнути\nFirst Contentful Paint\n0,3 с\nLargest Contentful Paint\n2,7 с\nTotal Blocking Time\n260 мс\nCumulative Layout Shift\n0.025\nSpeed Index\n1,6 с\nCaptured at 15 лист. 2026 р., 12:01 GMT+2\nЕмульований комп'ютер with Lighthouse 13.6.0\nСеанс із переглядом однієї сторінки\nПерше завантаження сторінки\nСпеціальне обмеження пропускної спроможності\nUsing HeadlessChromium 157.0.8103.38 with lr\nПереглянути веб-додаток Treemap\nПоказано аудити, релевантні для:\nAll\nFCP\nLCP\nTBT\nCLS\nСТАТИСТИКА\nВикористовуйте ефективні значення TTL кешу Очікуване заощадження: 1 056 КіБ\nЗапити, які блокують відображення Очікуване заощадження: 1 270 мс\nРозподіл LCP\nВиявлення запитів LCP\nДерево залежностей мережі\nПокращте показ зображень Очікуване заощадження: 442 КіБ\nПричини зміщення макета\nСторонній код\nЦя статистика також доступна на панелі \"Продуктивність\" в Інструментах розробника Chrome. Щоб переглянути докладнішу інформацію, запишіть трасування.\nДІАГНОСТИКА\nЗменште код CSS, який не використовуєте Очікуване заощадження: 1 335 КіБ\nЗменште код JavaScript, який не використовуєте Очікуване заощадження: 174 КіБ\nДля зображень не задано явним чином атрибути width та height\nУникайте великих обсягів даних у мережі Загальний розмір – 5 531 КіБ\nУникайте тривалих завдань у головному потоці Знайдено 2 тривалі завдання\nУникайте анімацій без композитингу Знайдено 3 анімовані елементи\nДокладніше про ефективність додатка. Ці числа не впливають безпосередньо на значення ефективності.\nВИКОНАНІ ПЕРЕВІРКИ (13)\nПоказати\n80\nДоступність\nЦі перевірки визначають можливості для покращення доступності веб-додатка. Функція автоматичного визначення може виявляти лише певні проблеми й не гарантує доступність вашого веб-додатка, тому радимо також проводити перевірки вручну.\nНАЗВИ ТА МІТКИ\nКнопки не мають доступних для зчитування назв\nЕлементи форми не мають пов’язаних міток\nПосилання не мають назв, які можна розпізнати\nЦі рекомендації допоможуть удосконалити семантику елементів керування в додатку. Це може покращити взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nARIA\nПоля введення ARIA не мають доступних для зчитування назв\nЦі рекомендації допоможуть покращити використання ролей ARIA у вашому додатку, що може позитивно вплинути на взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nКОНТРАСТ\nМіж кольорами фону та переднього плану недостатній коефіцієнт контрастності.\nДля багатьох користувачів складно або неможливо читати текст із низькою контрастністю. Дізнайтесь, як забезпечити достатній контраст кольорів.\nВідхилені елементи\n\n\ndiv.js-filter-item-content > div.price-inputs_tjR > span.filters-text_312 > input.input_2a8\n<input type=\"number\" data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"input_2a8 form__input_1rg ui-input ui-input--size-sm w-form__input\" name=\"min-price\" style=\"border-color: rgb(51, 51, 51); background-color: rgba(15, 17, 8, 0.12);\" value=\"100.00\">\n\n\ndiv.w-blocks-group-wrapper > div#blockId-66c8943c3a10a6c942f842bf > div.w-block-background > div.background_3Pg\n<div class=\"background_3Pg\" style=\"background:#f8f5f1\" data-role=\"placeholder\" data-selection-container=\"true\">\n\n\ndiv.js-filter-item-content > div.price-inputs_tjR > span.filters-text_312 > input.input_2a8\n<input type=\"number\" data-sub-item=\"input-field\" data-invalid-classname=\"invalid-field_19G\" class=\"input_2a8 form__input_1rg ui-input ui-input--size-sm w-form__input\" name=\"max-price\" style=\"border-color: rgb(51, 51, 51); background-color: rgba(15, 17, 8, 0.12);\" value=\"100.00\">\n\n\ndiv.w-blocks-group-wrapper > div#blockId-66c8943c3a10a6c942f842bf > div.w-block-background > div.background_3Pg\n<div class=\"background_3Pg\" style=\"background:#f8f5f1\" data-role=\"placeholder\" data-selection-container=\"true\">\n\n\nGet started\n<span class=\"w-banner__get-started-desktop\">\n\n\nGet started\n<a href=\"https://weblium.com?utm_medium=madeonweblium_freemium&amp;utm_source=om2r9.web…\" rel=\"noopener nofollow\" class=\"w-banner__get-started\" target=\"_blank\">\nЦі рекомендації допоможуть покращити читабельність вмісту.\nПРАКТИЧНІ ПОРАДИ\nДокумент не містить основного орієнтира.\nУсі елементи <heading> містять контент.\nЦі елементи надають поширені практичні поради щодо спеціальних можливостей.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (10)\nПоказати\nЦі елементи опрацьовують області, які не може охопити автоматизований інструмент перевірки. Докладніше читайте в нашому посібнику з перевірки доступності.\nВИКОНАНІ ПЕРЕВІРКИ (23)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (33)\nПоказати\n100\nОптимальні методи\nДОВІРА Й БЕЗПЕКА\nПереконайтеся, що CSP допомагає проти атак XSS\nВикористовуйте надійні правила HSTS\nЗабезпечте належне відокремлення джерел за допомогою правила COOP\nЗменште ризик міжсайтного скриптингу (XSS) на основі DOM за допомогою Trusted Types\nСУМІСНІСТЬ ВЕБ-ПЕРЕГЛЯДАЧА\nФункції Baseline\nЗАГАЛЬНІ\nВиявлені бібліотеки JavaScript\nВеликий власний файл JavaScript не містить карт джерела\nВИКОНАНІ ПЕРЕВІРКИ (12)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (2)\nПоказати\n69\nОптим. пошук. систем\nЦі перевірки допоможуть подбати про те, щоб ваша сторінка відповідала основним рекомендаціям щодо пошукової оптимізації. Є чимало інших факторів, які не враховує Lighthouse і які можуть вплинути на рейтинг сторінки в результатах пошуку (наприклад, продуктивність відповідно до Основних веб-показників). Докладніше про основи Google Пошуку.\nСКАНУВАННЯ Й ІНДЕКСУВАННЯ\nСторінку не можна індексувати\nЩоб ваш вміст з’являвся в результатах пошуку, веб-сканерам потрібно надати доступ до додатка.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (1)\nПоказати\nЩоб отримати додаткові практичні поради щодо оптимізації пошукових систем, скористайтеся додатковими засобами перевірки на своєму сайті.\nВИКОНАНІ ПЕРЕВІРКИ (9)\nПоказати\n1/2\nАгентний вебперегляд\nЦі перевірки забезпечують високу якість вебсайтів і їх доступність для агентів на основі ШІ, а також підтверджують правильність інтеграції WebMCP. Ця категорія ще на стадії розробки, тому може змінюватися.\nДОСТУПНІСТЬ АГЕНТА\nДерево доступності має неправильну структуру\nЦі перевірки допоможуть покращити доступність вебсайту для агентів на основі ШІ.\nВИКОНАНІ ПЕРЕВІРКИ (1)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (5)\nПоказати\nБільше про PageSpeed Insights\nЩо нового\nДокументація\nДокладніше про ефективність веб-сайту\nПоставте запитання на Stack Overflow\nСписок розсилки\nПов’язаний контент\nОновлення\nОснови веб-дизайну\nПриклади використання\nПодкасти\nЗв’язок\nТвіттер\nYouTube\nChrome\nFirebase\nУсі продукти\nУмови та Політика конфіденційності\nЩоб дізнатися більше, перегляньте правила користування сайтом Google Developers.",
+      "mobileRetry": "PageSpeed Insights\nДокументи\nЗвіт від 15 лист. 2026 р., 12:22:18\n\nВведіть дійсну URL-адресу\n\nАналізувати\nsmartphone\nМобільний\ncomputer\nКомп’ютер\nДізнайтеся, як відбувається взаємодія в реальних користувачів\nНемає даних\nВиявляйте проблеми з продуктивністю\n55\nЕфективність\n88\nДоступність\n100\nОптимальні методи\n69\nОптим. пошук. систем\n1/2\nАгентний вебперегляд\n55\nFCP\n+10\nLCP\n+0\nTBT\n+15\nCLS\n+25\nSI\n+6\nЕфективність\nЗначення приблизні й можуть відрізнятися. Значення ефективності визначено на основі цих показників.Показати калькулятор.\n0–49\n50–89\n90–100\nПОКАЗНИКИ\nРозгорнути\nFirst Contentful Paint\n1,5 с\nLargest Contentful Paint\n50,9 с\nTotal Blocking Time\n610 мс\nCumulative Layout Shift\n0\nSpeed Index\n5,2 с\nCaptured at 15 лист. 2026 р., 12:22 GMT+2\nЕмульований пристрій Moto G Power with Lighthouse 13.6.0\nСеанс із переглядом однієї сторінки\nПерше завантаження сторінки\nОбмеження пропускної спроможності для мережі 4G з низькою швидкістю\nUsing HeadlessChromium 157.0.8103.38 with lr\nПереглянути веб-додаток Treemap\nПоказано аудити, релевантні для:\nAll\nFCP\nLCP\nTBT\nCLS\nСТАТИСТИКА\nВикористовуйте ефективні значення TTL кешу Очікуване заощадження: 1 056 КіБ\nЗапити, які блокують відображення Очікуване заощадження: 7 160 мс\nПокращте показ зображень Очікуване заощадження: 7 592 КіБ\nПримусове перекомпонування\nРозподіл LCP\nВиявлення запитів LCP\nДерево залежностей мережі\nОптимізуйте розмір DOM\nСторонній код\nЦя статистика також доступна на панелі \"Продуктивність\" в Інструментах розробника Chrome. Щоб переглянути докладнішу інформацію, запишіть трасування.\nДІАГНОСТИКА\nЗменште код CSS, який не використовуєте Очікуване заощадження: 1 334 КіБ\nЗменште код JavaScript, який не використовуєте Очікуване заощадження: 174 КіБ\nДля зображень не задано явним чином атрибути width та height\nУникайте великих обсягів даних у мережі Загальний розмір – 41 421 КіБ\nУникайте тривалих завдань у головному потоці Знайдено 5 тривалих завдань\nДокладніше про ефективність додатка. Ці числа не впливають безпосередньо на значення ефективності.\nВИКОНАНІ ПЕРЕВІРКИ (13)\nПоказати\n88\nДоступність\nЦі перевірки визначають можливості для покращення доступності веб-додатка. Функція автоматичного визначення може виявляти лише певні проблеми й не гарантує доступність вашого веб-додатка, тому радимо також проводити перевірки вручну.\nНАЗВИ ТА МІТКИ\nКнопки не мають доступних для зчитування назв\nПосилання не мають назв, які можна розпізнати\nЦі рекомендації допоможуть удосконалити семантику елементів керування в додатку. Це може покращити взаємодію для користувачів допоміжних технологій, як-от програм зчитування з екрана.\nКОНТРАСТ\nМіж кольорами фону та переднього плану недостатній коефіцієнт контрастності.\nЦі рекомендації допоможуть покращити читабельність вмісту.\nПРАКТИЧНІ ПОРАДИ\nУсі елементи <heading> містять контент.\nЦі елементи надають поширені практичні поради щодо спеціальних можливостей.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (10)\nПоказати\nЦі елементи опрацьовують області, які не може охопити автоматизований інструмент перевірки. Докладніше читайте в нашому посібнику з перевірки доступності.\nВИКОНАНІ ПЕРЕВІРКИ (24)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (35)\nПоказати\n100\nОптимальні методи\nДОВІРА Й БЕЗПЕКА\nПереконайтеся, що CSP допомагає проти атак XSS\nВикористовуйте надійні правила HSTS\nЗабезпечте належне відокремлення джерел за допомогою правила COOP\nЗменште ризик міжсайтного скриптингу (XSS) на основі DOM за допомогою Trusted Types\nСУМІСНІСТЬ ВЕБ-ПЕРЕГЛЯДАЧА\nФункції Baseline\nЗАГАЛЬНІ\nВиявлені бібліотеки JavaScript\nВеликий власний файл JavaScript не містить карт джерела\nВИКОНАНІ ПЕРЕВІРКИ (12)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (2)\nПоказати\n69\nОптим. пошук. систем\nЦі перевірки допоможуть подбати про те, щоб ваша сторінка відповідала основним рекомендаціям щодо пошукової оптимізації. Є чимало інших факторів, які не враховує Lighthouse і які можуть вплинути на рейтинг сторінки в результатах пошуку (наприклад, продуктивність відповідно до Основних веб-показників). Докладніше про основи Google Пошуку.\nСКАНУВАННЯ Й ІНДЕКСУВАННЯ\nСторінку не можна індексувати\nЩоб ваш вміст з’являвся в результатах пошуку, веб-сканерам потрібно надати доступ до додатка.\nДОДАТКОВІ ЕЛЕМЕНТИ, ЯКІ ПОТРІБНО ПЕРЕВІРИТИ ВРУЧНУ (1)\nПоказати\nЩоб отримати додаткові практичні поради щодо оптимізації пошукових систем, скористайтеся додатковими засобами перевірки на своєму сайті.\nВИКОНАНІ ПЕРЕВІРКИ (9)\nПоказати\n1/2\nАгентний вебперегляд\nЦі перевірки забезпечують високу якість вебсайтів і їх доступність для агентів на основі ШІ, а також підтверджують правильність інтеграції WebMCP. Ця категорія ще на стадії розробки, тому може змінюватися.\nДОСТУПНІСТЬ АГЕНТА\nДерево доступності має неправильну структуру\nЦі перевірки допоможуть покращити доступність вебсайту для агентів на основі ШІ.\nВИКОНАНІ ПЕРЕВІРКИ (1)\nПоказати\nНЕ ЗАСТОСОВУЮТЬСЯ (5)\nПоказати\nБільше про PageSpeed Insights\nЩо нового\nДокументація\nДокладніше про ефективність веб-сайту\nПоставте запитання на Stack Overflow\nСписок розсилки\nПов’язаний контент\nОновлення\nОснови веб-дизайну\nПриклади використання\nПодкасти\nЗв’язок\nТвіттер\nYouTube\nChrome\nFirebase\nУсі продукти\nУмови та Політика конфіденційності\nЩоб дізнатися більше, перегляньте правила користування сайтом Google Developers.",
+      "mobileRetryUrl": "https://pagespeed.web.dev/analysis/https-om2r9-weblium-site/82z2vgomtd?form_factor=mobile"
+    },
+    "keyboard": [
+      {
+        "href": "https://facebook.com/",
+        "label": "facebook",
+        "outline": "rgb(15, 17, 8) none 0px",
+        "rect": {
+          "h": 30,
+          "w": 30,
+          "x": 175.40000915527344,
+          "y": 36.5625
+        },
+        "role": "button",
+        "shadow": "none",
+        "tag": "A",
+        "text": "facebook",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "https://instagram.com/",
+        "label": "instagram",
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 30,
+          "w": 30,
+          "x": 220.40000915527344,
+          "y": 36.5625
+        },
+        "role": "button",
+        "shadow": "none",
+        "tag": "A",
+        "text": "instagram",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "https://youtube.com/",
+        "label": "youtube",
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 30,
+          "w": 30,
+          "x": 265.3999938964844,
+          "y": 36.5625
+        },
+        "role": "button",
+        "shadow": "none",
+        "tag": "A",
+        "text": "youtube",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/",
+        "label": "Return to home page",
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 43.125,
+          "w": 237.0625,
+          "x": 723.0875244140625,
+          "y": 30
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "- Jardin Obscur -- Jardin Obscur -",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#about-us",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 38.48749923706055,
+          "x": 441.2375183105469,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "O nas",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#our-philosophy",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 98.1125030517578,
+          "x": 529.7250366210938,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Nasza filozofia",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#best-sellers",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 73.9375,
+          "x": 677.8375244140625,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Bestsellery",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#new-scent",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 89.5625,
+          "x": 801.7750244140625,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Nowy zapach",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#catalog",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 50.92499923706055,
+          "x": 941.3375244140624,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Katalog",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "/#testimonials-heading",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 19.200000762939453,
+          "w": 44.51250076293945,
+          "x": 1042.2625732421875,
+          "y": 124.5250015258789
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Opinie",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "https://om2r9.weblium.site/shop",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 22.399999618530273,
+          "w": 131.9250030517578,
+          "x": 175.40000915527344,
+          "y": 265.125
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Perfume Store",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "href": "https://om2r9.weblium.site/shop/cat/woman",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 22.399999618530273,
+          "w": 55.962501525878906,
+          "x": 307.32501220703125,
+          "y": 265.125
+        },
+        "role": null,
+        "shadow": "none",
+        "tag": "A",
+        "text": "Kobiety",
+        "viewport": {
+          "h": 839,
+          "w": 1536
+        }
+      },
+      {
+        "html": "<input type=\"text\" aria-label=\"Product quantity\" data-test=\"quantity-input\" value=\"1\" class=\"quantity-input_1N1 focus-visible\" min=\"1\" max=\"9999\" data-focus-visible-added=\"\">",
+        "label": "Product quantity",
+        "outline": "rgb(0, 0, 0) none 2.4px",
+        "rect": {
+          "h": 26.399999618530273,
+          "w": 39.400001525878906,
+          "x": 788.2000122070312,
+          "y": 537.4249877929688
+        },
+        "role": null,
+        "tag": "INPUT",
+        "text": ""
+      },
+      {
+        "html": "<svg aria-label=\"Increase quantity\" role=\"button\" tabindex=\"0\" class=\"product__input-quantity-arrow quantity-arrow_1Js js-product-specs-quantity-up focus-visible\" width=\"10\" height=\"6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" data-focus-visible-added=\"\"><path d=\"M5.35.156a.474.474 0 00-.701 0L.111 5.264a.437.437 0 00-.111.29C0 5.8.207 6 .462 ",
+        "label": "Increase quantity",
+        "outline": "rgb(16, 16, 16) auto 4.8px",
+        "rect": {
+          "h": 6,
+          "w": 10,
+          "x": 827.6000366210938,
+          "y": 537.4249877929688
+        },
+        "role": "button",
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "html": "<svg aria-label=\"Decrease quantity\" role=\"button\" tabindex=\"0\" class=\"product__input-quantity-arrow quantity-arrow_1Js quantity-arrow-down_1nO js-product-specs-quantity-down focus-visible\" width=\"10\" height=\"6\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" data-focus-visible-added=\"\"><path d=\"M5.35.156a.474.474 0 00-.701 0L.111 5.264a.437.437 0 00",
+        "label": "Decrease quantity",
+        "outline": "rgb(16, 16, 16) auto 4.8px",
+        "rect": {
+          "h": 6,
+          "w": 10,
+          "x": 827.6000366210938,
+          "y": 557.8250122070312
+        },
+        "role": "button",
+        "tag": "svg",
+        "text": ""
+      },
+      {
+        "html": "<a class=\"js-buy-button mt-24 button_bOi ui-button ui-button--primary-light ui-button--size-md ui-button--responsive-size-md-xs ui-button--responsive-size-md-sm ui-button--responsive-size-md-md ui-button--responsive-size-md focus-visible\" data-test=\"buy-button\" tabindex=\"0\" role=\"button\" aria-label=\"Add to cart\" data-component=\"button\" data-focus-v",
+        "label": "Add to cart",
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 44,
+          "w": 122.13750457763672,
+          "x": 866.4000244140625,
+          "y": 528.625
+        },
+        "role": "button",
+        "tag": "A",
+        "text": "Add to cart"
+      },
+      {
+        "html": "<a href=\"/shop/lune-blanche\" data-persist-utm=\"true\" class=\"focus-visible\" data-focus-visible-added=\"\"><div class=\"preview_1YS\"><img src=\"//e-c.storage.googleapis.com/res/f5565f95-bea4-4b51-965c-5a8b0325a9a4/original\" alt=\"VERDELIA\"></div></a>",
+        "label": null,
+        "outline": "rgb(16, 16, 16) auto 0.8px",
+        "rect": {
+          "h": 281.25,
+          "w": 281.25,
+          "x": 175.40000915527344,
+          "y": 278.82501220703125
+        },
+        "role": null,
+        "tag": "A",
+        "text": ""
+      }
+    ],
+    "keyboardActivation": {
+      "target": "Add to cart",
+      "element": "a[role=button][tabindex=0]",
+      "afterEnter": 0,
+      "afterSpace": 0,
+      "afterPointer": 1
+    },
+    "quantityFocus": {
+      "before": {
+        "bg": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "outline": "rgb(0, 0, 0) none 2.4px",
+        "shadow": "none"
+      },
+      "after": {
+        "bg": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "html": "<input type=\"text\" aria-label=\"Product quantity\" data-test=\"quantity-input\" value=\"1\" class=\"quantity-input_1N1 focus-visible\" min=\"1\" max=\"9999\" data-focus-visible-added=\"\">",
+        "label": "Product quantity",
+        "outline": "rgb(0, 0, 0) none 2.4px",
+        "shadow": "none"
+      }
+    },
+    "productStyles": {
+      "arrows": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "16px",
+          "height": 6,
+          "label": "Increase quantity",
+          "role": "button",
+          "tag": "svg",
+          "text": "",
+          "weight": "400",
+          "width": 10
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "16px",
+          "height": 6,
+          "label": "Decrease quantity",
+          "role": "button",
+          "tag": "svg",
+          "text": "",
+          "weight": "400",
+          "width": 10
+        }
+      ],
+      "images": [
+        {
+          "alt": "CARMINE RUSH",
+          "role": null,
+          "width": 427.5
+        },
+        {
+          "alt": "",
+          "role": null,
+          "width": 102.8000030517578
+        },
+        {
+          "alt": "VERDELIA",
+          "role": null,
+          "width": 281.25
+        },
+        {
+          "alt": "ÉLAN SILENCIEUX",
+          "role": null,
+          "width": 281.25
+        },
+        {
+          "alt": "LUNARELLE",
+          "role": null,
+          "width": 281.25
+        },
+        {
+          "alt": "LUNE BLANCHE",
+          "role": null,
+          "width": 281.25
+        },
+        {
+          "alt": "ÉCLAT SUPÉRIEUR",
+          "role": null,
+          "width": 281.25
+        }
+      ],
+      "stock": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(97, 168, 84)",
+          "borderWidth": "0px",
+          "color": "rgb(97, 168, 84)",
+          "font": "16px",
+          "height": 22.399999618530273,
+          "label": null,
+          "role": "status",
+          "tag": "DIV",
+          "text": "In stock",
+          "weight": "400",
+          "width": 570
+        }
+      ],
+      "text": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "30px",
+          "height": 43.125,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "- Jardin Obscur -",
+          "weight": "500",
+          "width": 237.0625
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "24px",
+          "height": 31.200000762939453,
+          "label": null,
+          "role": null,
+          "tag": "H1",
+          "text": "CARMINE RUSH (014)",
+          "weight": "500",
+          "width": 570
+        },
+        {
+          "bg": "rgb(15, 17, 8)",
+          "border": "rgb(248, 245, 241)",
+          "borderWidth": "0px",
+          "color": "rgb(248, 245, 241)",
+          "font": "16px",
+          "height": 44,
+          "label": "Add to cart",
+          "role": "button",
+          "tag": "A",
+          "text": "Add to cart",
+          "weight": "400",
+          "width": 122.13750457763672
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 51.29999923706055,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "VERDELIA",
+          "weight": "400",
+          "width": 281.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 27.30000114440918,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "zł18,50 PLN",
+          "weight": "400",
+          "width": 112.8375015258789
+        },
+        {
+          "bg": "rgb(111, 30, 34)",
+          "border": "rgb(248, 245, 241)",
+          "borderWidth": "0px",
+          "color": "rgb(248, 245, 241)",
+          "font": "16px",
+          "height": 44,
+          "label": "Add to cart",
+          "role": "button",
+          "tag": "A",
+          "text": "Buy now",
+          "weight": "400",
+          "width": 104.1624984741211
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 51.29999923706055,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "ÉLAN SILENCIEUX",
+          "weight": "400",
+          "width": 281.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 27.30000114440918,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "zł44,99 PLN",
+          "weight": "400",
+          "width": 112.8375015258789
+        },
+        {
+          "bg": "rgb(111, 30, 34)",
+          "border": "rgb(248, 245, 241)",
+          "borderWidth": "0px",
+          "color": "rgb(248, 245, 241)",
+          "font": "16px",
+          "height": 44,
+          "label": "Add to cart",
+          "role": "button",
+          "tag": "A",
+          "text": "Buy now",
+          "weight": "400",
+          "width": 104.1624984741211
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 51.29999923706055,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "LUNARELLE",
+          "weight": "400",
+          "width": 281.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 27.30000114440918,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "zł19,99 PLN",
+          "weight": "400",
+          "width": 112.8375015258789
+        },
+        {
+          "bg": "rgb(111, 30, 34)",
+          "border": "rgb(248, 245, 241)",
+          "borderWidth": "0px",
+          "color": "rgb(248, 245, 241)",
+          "font": "16px",
+          "height": 44,
+          "label": "Add to cart",
+          "role": "button",
+          "tag": "A",
+          "text": "Buy now",
+          "weight": "400",
+          "width": 104.1624984741211
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 51.29999923706055,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "LUNE BLANCHE",
+          "weight": "400",
+          "width": 281.25
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(15, 17, 8)",
+          "borderWidth": "0px",
+          "color": "rgb(15, 17, 8)",
+          "font": "21px",
+          "height": 27.30000114440918,
+          "label": null,
+          "role": null,
+          "tag": "P",
+          "text": "zł54,99 PLN",
+          "weight": "400",
+          "width": 112.8375015258789
+        }
+      ]
+    },
+    "productBackground": {
+      "ancestors": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "ui-text status_AT4 \n      status-in-stock_11A\n  ",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "js-product-specs-template",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "outer-wrapper_3BR",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-grid__item-inner w-grid__item-panel w-text-left-xs w-text-left-sm w-text-left-md w-text-left w-1fe2cb245a7faa4efa842c8d97d12cd4",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-grid__item w-grid__item--top",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-grid__inner",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-grid w-grid--row w-grid--gap",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-section__content",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-section__inner",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-section",
+          "opacity": "1",
+          "tag": "SECTION"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "block-wrapper w-block-wrapper block-wrapper_21s background_Rke background w-state-has-background",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "w-blocks-group-wrapper blocks-group-wrapper_a80",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "page",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "",
+          "opacity": "1",
+          "tag": "DIV"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "js-focus-visible",
+          "opacity": "1",
+          "tag": "BODY"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "site-root site-root--published fonts-stage-1",
+          "opacity": "1",
+          "tag": "HTML"
+        }
+      ],
+      "arrowFills": [
+        "rgb(145, 153, 171)",
+        "rgb(145, 153, 171)"
+      ],
+      "emptyAltImages": [
+        {
+          "parent": "<div data-active-classname=\"item__active_3W8\" class=\"product__thumbnail-container_-1S item__active_3W8\" src=\"//e-c.storage.googleapis.com/res/3ea50e79-6508-47ca-888e-10abbe4a25ad/112\" data-product-thumbnail=\"true\" data-product-thumbnail-full=\"//e-c.storage.googleapis.com/res/3ea50e79-6508-47ca-888e-10abbe4a25ad/original\" data-product-thumbnail-type=\"image\" data-product-thumbnail-ref=\"res/3ea50e79-6508-47ca-888e-10abbe4a25ad\"><img class=\"product__thumbnails-item-inner_PDL\" src=\"//e-c.storage.googleapis.com/res/3ea50e79-6508-47ca-888e-10abbe4a25ad/112\" alt=\"\" loading=\"lazy\" data-product-thumbnail-full=\"//e-c.storage.googleapis.com/res/3ea50e79-6508-47ca-888e-10abbe4a25ad/original\" data-product-thumbnail-type=\"image\"></div>"
+        }
+      ],
+      "layers": [
+        {
+          "bg": "rgb(251, 251, 251)",
+          "cls": "background_3Pg",
+          "image": "none"
+        }
+      ]
+    },
+    "reflow": {
+      "home": {
+        "bodyWidth": 320,
+        "headings": [
+          {
+            "scrollWidth": 272,
+            "text": "Zapachy, które opowiadają Twoją historię",
+            "width": 272
+          },
+          {
+            "scrollWidth": 272,
+            "text": "Lata rzemiosła, tysiące różnych historii",
+            "width": 272
+          },
+          {
+            "scrollWidth": 272,
+            "text": "Skorzystaj ze zniżki",
+            "width": 272
+          },
+          {
+            "scrollWidth": 258,
+            "text": "Zapach z przesłaniem – rozpocznij swoją historię",
+            "width": 258
+          },
+          {
+            "scrollWidth": 272,
+            "text": "Warstwy zapachu „rozwijające się niczym opowieść”",
+            "width": 272
+          },
+          {
+            "scrollWidth": 272,
+            "text": "Nasz katalog zapachów",
+            "width": 272
+          },
+          {
+            "scrollWidth": 272,
+            "text": "Odkryj istotę, która Cię definiuje",
+            "width": 272
+          },
+          {
+            "scrollWidth": 272,
+            "text": "\n",
+            "width": 272
+          },
+          {
+            "scrollWidth": 183,
+            "text": "Create your own website",
+            "width": 182.8874969482422
+          }
+        ],
+        "innerHeight": 900,
+        "innerWidth": 320,
+        "scrollWidth": 305
+      },
+      "catalog": {
+        "catalogTop": -0.25,
+        "innerHeight": 900,
+        "innerWidth": 320,
+        "scrollWidth": 305,
+        "scrollY": 9748.7998046875
+      },
+      "product": {
+        "bodyWidth": 320,
+        "innerHeight": 900,
+        "innerWidth": 320,
+        "scrollWidth": 305
+      },
+      "cart": {
+        "fields": [
+          {
+            "placeholder": "",
+            "right": 76.20000076293945,
+            "width": 39.400001525878906
+          },
+          {
+            "placeholder": "",
+            "right": 169.20000457763672,
+            "width": 53.400001525878906
+          },
+          {
+            "placeholder": "Your name",
+            "right": 286,
+            "width": 252
+          },
+          {
+            "placeholder": "Your email address",
+            "right": 286,
+            "width": 252
+          },
+          {
+            "placeholder": "Your phone",
+            "right": 286,
+            "width": 252
+          },
+          {
+            "placeholder": "Your comment",
+            "right": 286,
+            "width": 252
+          }
+        ],
+        "innerHeight": 900,
+        "innerWidth": 320,
+        "scrollWidth": 320
+      },
+      "menuOverlap": {
+        "covered": false,
+        "innerWidth": 320,
+        "menu": {
+          "h": 40,
+          "w": 40,
+          "x": 241,
+          "y": 53.125
+        },
+        "top": {
+          "cls": "w-burger__line",
+          "label": null,
+          "tag": "SPAN"
+        }
+      }
+    },
+    "mobileMenu": {
+      "openedWithEnter": true,
+      "afterEscape": 0,
+      "closedWithEnter": true
+    },
+    "modalFocus": {
+      "active": {
+        "label": null,
+        "rect": {
+          "h": 18.399999618530273,
+          "w": 28,
+          "x": 20,
+          "y": 873.2000122070312
+        },
+        "tag": "A",
+        "text": "\n            \n              \n              \n            \n   "
+      },
+      "covered": true,
+      "top": {
+        "cls": "w-section__inner",
+        "tag": "DIV",
+        "text": "This product is no longer available. Please remove it from t"
+      }
+    },
+    "zoom": {
+      "before": {
+        "dpr": 1.0000000149011612,
+        "headingSize": "24px",
+        "innerHeight": 900,
+        "innerWidth": 1440
+      },
+      "actual": {
+        "button": [
+          {
+            "height": 44,
+            "text": "Add to cart",
+            "width": 122.1328125
+          }
+        ],
+        "dpr": 2,
+        "heading": "22px",
+        "innerHeight": 364,
+        "innerWidth": 760,
+        "scrollWidth": 753
+      },
+      "cart": {
+        "fields": [
+          {
+            "scrollWidth": 402,
+            "text": "Name *",
+            "width": 402
+          },
+          {
+            "scrollWidth": 402,
+            "text": "Email *",
+            "width": 402
+          },
+          {
+            "scrollWidth": 402,
+            "text": "Phone *",
+            "width": 402
+          },
+          {
+            "scrollWidth": 402,
+            "text": "Comment *",
+            "width": 402
+          }
+        ],
+        "innerHeight": 364,
+        "innerWidth": 760,
+        "scrollWidth": 760
+      },
+      "home": {
+        "dpr": 2,
+        "headingText": "Zapachy, które opowiadają Twoją historię",
+        "innerHeight": 364,
+        "innerWidth": 760,
+        "scrollWidth": 753
+      }
+    },
+    "spacing": {
+      "home": {
+        "font": "71px",
+        "innerHeight": 728,
+        "innerWidth": 990,
+        "letterSpacing": "8.52px",
+        "lineHeight": "106.5px",
+        "text": "Zapachy, które opowiadają Twoją historię",
+        "wordSpacing": "11.36px"
+      },
+      "applied": [
+        {
+          "font": "30px",
+          "letter": "3.6px",
+          "line": "45px",
+          "marginBottom": "0px",
+          "text": "- Jardin Obscur -",
+          "word": "4.8px"
+        },
+        {
+          "font": "30px",
+          "letter": "3.6px",
+          "line": "45px",
+          "marginBottom": "0px",
+          "text": "",
+          "word": "4.8px"
+        },
+        {
+          "font": "0px",
+          "letter": "normal",
+          "line": "0px",
+          "marginBottom": "0px",
+          "text": "",
+          "word": "0px"
+        },
+        {
+          "font": "0px",
+          "letter": "normal",
+          "line": "0px",
+          "marginBottom": "0px",
+          "text": "",
+          "word": "0px"
+        },
+        {
+          "font": "0px",
+          "letter": "normal",
+          "line": "0px",
+          "marginBottom": "0px",
+          "text": "",
+          "word": "0px"
+        },
+        {
+          "font": "12px",
+          "letter": "1.44px",
+          "line": "18px",
+          "marginBottom": "0px",
+          "text": "– PERFUMY Z DUSZĄ –",
+          "word": "1.92px"
+        },
+        {
+          "font": "71px",
+          "letter": "8.52px",
+          "line": "106.5px",
+          "marginBottom": "0px",
+          "text": "Zapachy, które opowiadają Twoją historię",
+          "word": "11.36px"
+        },
+        {
+          "font": "19px",
+          "letter": "2.28px",
+          "line": "28.5px",
+          "marginBottom": "0px",
+          "text": "To coś więcej niż zapach — w każdym flakonie kryje się wspomnieni",
+          "word": "3.04px"
+        },
+        {
+          "font": "17.6px",
+          "letter": "normal",
+          "line": "17.6px",
+          "marginBottom": "10px",
+          "text": "Znajdź swój zapach",
+          "word": "2.816px"
+        },
+        {
+          "font": "14px",
+          "letter": "1.68px",
+          "line": "21px",
+          "marginBottom": "0px",
+          "text": "\n",
+          "word": "2.24px"
+        }
+      ],
+      "paragraph": [
+        {
+          "font": "30px",
+          "letter": "3.6px",
+          "line": "45px",
+          "marginBottom": "60px",
+          "text": "- Jardin Obscur -",
+          "word": "4.8px"
+        },
+        {
+          "font": "26px",
+          "letter": "3.12px",
+          "line": "39px",
+          "marginBottom": "52px",
+          "text": "- Jardin Obscur -",
+          "word": "4.16px"
+        },
+        {
+          "font": "30px",
+          "letter": "3.6px",
+          "line": "45px",
+          "marginBottom": "60px",
+          "text": "- Jardin Obscur -",
+          "word": "4.8px"
+        },
+        {
+          "font": "26px",
+          "letter": "3.12px",
+          "line": "39px",
+          "marginBottom": "52px",
+          "text": "- Jardin Obscur -",
+          "word": "4.16px"
+        },
+        {
+          "font": "30px",
+          "letter": "3.6px",
+          "line": "45px",
+          "marginBottom": "60px",
+          "text": "- Jardin Obscur -",
+          "word": "4.8px"
+        },
+        {
+          "font": "26px",
+          "letter": "3.12px",
+          "line": "39px",
+          "marginBottom": "52px",
+          "text": "- Jardin Obscur -",
+          "word": "4.16px"
+        }
+      ],
+      "mobile": {
+        "clips": [],
+        "innerHeight": 900,
+        "innerWidth": 320,
+        "scrollWidth": 305
+      },
+      "menu": {
+        "html": "<button type=\"button\" class=\"w-burger w-hide--lg w-hide--xl\" data-burger-button=\"true\" data-handler=\"w-burger--active\" title=\"Switch menu\" aria-label=\"Open navigation menu\" aria-expanded=\"false\"><span class=\"w-burger__inner\"><span class=\"w-burger__line\" aria-hidden=\"true\"></span><span class=\"w-burger__line\" aria-hidden=\"true\"></span><span class=\"w-burger__line\" aria-hidden=\"true\"></span></span></button>",
+        "rect": {
+          "h": 40,
+          "w": 40,
+          "x": 241,
+          "y": 81
+        }
+      },
+      "overlap": {
+        "covered": true,
+        "menu": {
+          "h": 40,
+          "w": 40,
+          "x": 241,
+          "y": 81
+        },
+        "top": {
+          "cls": "counter_w9d circle_16S js-cart-count",
+          "label": null,
+          "tag": "DIV"
+        }
+      }
+    },
+    "homeImages": [
+      {
+        "ariaLabel": null,
+        "href": "/shop/amour-lune",
+        "html": "<a href=\"/shop/amour-lune\" data-persist-utm=\"true\"><div class=\"absolute-wrapper_2hA ribbons- ribbons-\"></div><div class=\"preview_1YS\"><img class=\"js-preview-img\" alt=\"AMOUR LUNE\"></div></a>",
+        "images": [
+          {
+            "alt": "AMOUR LUNE"
+          }
+        ],
+        "text": ""
+      },
+      {
+        "ariaLabel": "View product: AMOUR LUNE",
+        "href": "/shop/amour-lune",
+        "html": "<a href=\"/shop/amour-lune\" class=\"name_2cv\" data-test=\"name\" data-persist-utm=\"true\" aria-label=\"View product: AMOUR LUNE\">AMOUR LUNE </a>",
+        "images": [],
+        "text": "AMOUR LUNE"
+      },
+      {
+        "ariaLabel": "Add to cart",
+        "href": null,
+        "html": "<a class=\"js-buy-button  button_bOi ui-button ui-button--primary-light ui-button--size-md ui-button--responsive-size-md-xs ui-button--responsive-size-md-sm ui-button--responsive-size-md-md ui-button--responsive-size-md\" data-test=\"buy-button\" tabindex=\"0\" role=\"button\" aria-label=\"Add to cart\" data-component=\"button\"><span class=\"button__border_2-j ui-button__border\"></span><span class=\"button__inner_12v\"><span class=\"button__content_28p\">Kup teraz</span></span></a>",
+        "images": [],
+        "text": "Kup teraz"
+      },
+      {
+        "ariaLabel": null,
+        "href": "/shop/morning-dusk-1",
+        "html": "<a href=\"/shop/morning-dusk-1\" data-persist-utm=\"true\"><div class=\"absolute-wrapper_2hA ribbons- ribbons-\"></div><div class=\"preview_1YS\"><img class=\"js-preview-img\" alt=\"ASHEN EMBER\"></div></a>",
+        "images": [
+          {
+            "alt": "ASHEN EMBER"
+          }
+        ],
+        "text": ""
+      },
+      {
+        "ariaLabel": "View product: ASHEN EMBER",
+        "href": "/shop/morning-dusk-1",
+        "html": "<a href=\"/shop/morning-dusk-1\" class=\"name_2cv\" data-test=\"name\" data-persist-utm=\"true\" aria-label=\"View product: ASHEN EMBER\">ASHEN EMBER </a>",
+        "images": [],
+        "text": "ASHEN EMBER"
+      },
+      {
+        "ariaLabel": "Add to cart",
+        "href": null,
+        "html": "<a class=\"js-buy-button  button_bOi ui-button ui-button--primary-light ui-button--size-md ui-button--responsive-size-md-xs ui-button--responsive-size-md-sm ui-button--responsive-size-md-md ui-button--responsive-size-md\" data-test=\"buy-button\" tabindex=\"0\" role=\"button\" aria-label=\"Add to cart\" data-component=\"button\"><span class=\"button__border_2-j ui-button__border\"></span><span class=\"button__inner_12v\"><span class=\"button__content_28p\">Kup teraz</span></span></a>",
+        "images": [],
+        "text": "Kup teraz"
+      },
+      {
+        "ariaLabel": null,
+        "href": "/shop/elan-silencieux",
+        "html": "<a href=\"/shop/elan-silencieux\" data-persist-utm=\"true\"><div class=\"absolute-wrapper_2hA ribbons- ribbons-\"></div><div class=\"preview_1YS\"><img class=\"js-preview-img\" alt=\"BLEU RÉEL\"></div></a>",
+        "images": [
+          {
+            "alt": "BLEU RÉEL"
+          }
+        ],
+        "text": ""
+      },
+      {
+        "ariaLabel": "View product: BLEU RÉEL",
+        "href": "/shop/elan-silencieux",
+        "html": "<a href=\"/shop/elan-silencieux\" class=\"name_2cv\" data-test=\"name\" data-persist-utm=\"true\" aria-label=\"View product: BLEU RÉEL\">BLEU RÉEL </a>",
+        "images": [],
+        "text": "BLEU RÉEL"
+      }
+    ],
+    "contrastMeasured": [
+      {
+        "element": "In stock",
+        "fg": "#61A854",
+        "bg": "#FBFBFB",
+        "ratio": 2.8040274917211114,
+        "fontPx": 16,
+        "threshold": 4.5
+      },
+      {
+        "element": "Quantity arrow",
+        "fg": "#9199AB",
+        "bg": "#FBFBFB",
+        "ratio": 2.761615953158158,
+        "threshold": 3
+      }
+    ]
+  }
+}

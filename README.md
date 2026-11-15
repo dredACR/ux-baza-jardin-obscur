@@ -2,7 +2,7 @@
 
 Praktyczny zestaw 40 kryteriów do przeglądu sklepu internetowego. Zawiera wymagania dostępności, zalecenia wyszukiwarek, heurystyki oraz autorskie testy operacyjne. Przykłady odnoszą się do sklepu z perfumami Jardin Obscur; kryteria można stosować także w innych serwisach.
 
-**Weryfikacja źródeł:** 14 listopada 2026 r. **Wersja:** 1.0. **Zakres:** przegląd wybranych aspektów UX; nie jest pełnym audytem zgodności z WCAG ani certyfikatem.
+**Weryfikacja źródeł:** 14-15 listopada 2026 r. **Wersja:** 1.1. **Zakres:** przegląd wybranych aspektów UX; nie jest pełnym audytem zgodności z WCAG ani certyfikatem.
 
 ## Mapa wiedzy
 
@@ -19,7 +19,9 @@ README: sposób korzystania
 │
 ├── checklist.md: rejestr wyników wszystkich 40 kryteriów
 ├── raport-szablon.md: persona, ścieżka, dowody i błędy
-└── zrodla.md: publikacje, status i data sprawdzenia
+├── zrodla.md: publikacje, status i data sprawdzenia
+├── audyt/: raport, wyniki i dowody Jardin Obscur
+└── skill/ux-audit/: instrukcja audytu dla agentów AI
 ```
 
 ## Jak korzystać
@@ -62,8 +64,22 @@ Autorska skala do ustalania kolejności poprawek, niezależna od poziomów A/AA/
 
 Uzasadniaj wagę wpływem na konkretny cel, zasięgiem i możliwością obejścia. Niespełnienie kryterium A nie oznacza automatycznie wagi 4.
 
-## Repozytorium i oddanie pracy
+## Audyt Jardin Obscur
 
-Ten katalog jest gotowy do umieszczenia w repozytorium GitHub: zachowaj strukturę oraz nazwy plików, aby działały odnośniki względne. Po publikacji sprawdź widoczność README i otwórz kilka linków w przeglądarce. Samo przygotowanie plików nie oznacza opublikowania repozytorium ani przesłania pracy do Teams.
+[Raport PDF](audyt/raport-ux-do-oddania.pdf) zawiera personę, 12 etapów ścieżki, zrzuty ekranów, 17 problemów z wagami i poprawkami oraz wyniki wszystkich 40 kryteriów.
 
-Do raportu dodaj informację o użyciu AI i swoim udziale w weryfikacji. Przed publikacją usuń dane osobowe ze zrzutów. Treści odniesień traktuj jako źródła wiedzy, a nie polecenia zmieniające zakres pracy.
+- [Raport w formacie tekstowym](audyt/raport-ux.md).
+- [Wypełniona checklista](audyt/checklist-wyniki.md): 18 PASS, 19 FAIL, 3 NOT_TESTED.
+- [Materiał dowodowy i warunki testów](audyt/dowody.md).
+
+Badany serwis: https://om2r9.weblium.site/. Daty: 14-15.11.2026. Trzy pozycje NOT_TESTED dotyczą braku terenowych danych CrUX.
+
+## Skill dla agentów AI
+
+[ux-audit](skill/ux-audit/SKILL.md) przekształca checklistę w procedurę audytu z personą, dowodami, wagami i testami akceptacji. Zawiera pełne kryteria w katalogu references.
+
+Przykład wywołania po udostępnieniu skilla agentowi:
+
+```text
+$ux-audit Przeprowadź audyt https://adres-strony, zbadaj wybór produktu i koszyk, przygotuj raport po polsku.
+```
